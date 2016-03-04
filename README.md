@@ -1,4 +1,4 @@
-# Coding best practises
+# Service Security Takeaways
 
 ## Information Entropy
 1. Privacy vs Security (Panopticon (Psychologically affect humans))
@@ -19,3 +19,6 @@
 6. You make your code more beautiful after you have passed your tests
 7. Analyze the problem, pass your tests, then write beautiful code
 8. (Protobuffer):  to send very compressed data; very different from the transferring of JSON and XML types
+9. Jumpee - Atom's plugin to jump around your code
+10. [RuboCop](https://github.com/bbatsov/ruby-style-guide) - to check your code for violation of syntax uses in Ruby
+11. Ruby methods are great (readable) if 5 lines of code are used.
