@@ -27,8 +27,30 @@
 
 Bonus:
 ``` ruby
-# Metaprogramming
+# Ruby OOP Metaprogramming
 attr_accessor
-```
 
-## 
+describe 'test' do
+	it 'test body'
+		# ...
+	end
+end
+
+# minitest
+xxx.must_equal true
+```
+Domain Specific Language (DSL)- looks like new code(methods) being embedded into a programming language 
+
+YAML: A form of serializing data
+
+## Cryptography
+1. Keyspace: all the possible spaces that's needed to cover the plaintext
+2. Confusion: encrypt -> ciphertext
+3. Diffusion:  plaintext -> encrypt -> ciphertext
+4. Permutation: scramble cipher
+5. High Diffusion doesn't necessarily mean High Confusions
+6. A cipher is secure if there are no real (shortcuts) patterns.
+7. Kerckhoff's Principle
+8. Double Transposition Cipher: Problems with the size of column
+9. One time pad: keep changing the key
+
