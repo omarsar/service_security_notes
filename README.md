@@ -22,3 +22,13 @@
 9. Jumpee - Atom's plugin to jump around your code
 10. [RuboCop](https://github.com/bbatsov/ruby-style-guide) - to check your code for violation of syntax uses in Ruby
 11. Ruby methods are great (readable) if 5 lines of code are used.
+12. Map / Reduce to iterate over arrays, etc., instead of for loops.
+13. In order to understand how to get the most optimized code you must run benchmarks
+
+Bonus:
+``` ruby
+# Metaprogramming
+attr_accessor
+```
+
+## 
