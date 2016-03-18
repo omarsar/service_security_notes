@@ -54,3 +54,10 @@ YAML: A form of serializing data
 8. Double Transposition Cipher: Problems with the size of column
 9. One time pad: keep changing the key
 
+## Cryptography Part B
+1. SK-Cryptography: Stream Ciphers
+2. RC4 operates with bytes and A5/1 Ciphers operate at bit level (more computational complexity)
+3. Diffusion is low for A5/1 Ciphers
+4. Diffusion keeps changing steadily
+5. WEP weak because of CRC (Cyclic Redundancy Check)
+
