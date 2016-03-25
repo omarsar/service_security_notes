@@ -64,4 +64,7 @@ YAML: A form of serializing data
 ## Asymmetric Cryptography
 1. PK-Cryptography ensures confidentiality (Agent (securing) Handler)
 2. PK-Cryptography ensures non-repudiation (Agent (signing) Handler)
-3. First we sign then secure so that the other side decrypts and then remove the signature with Agents public key
+3. First we sign then secure so that the other side decrypts and then remove the signature with Agents public key.
+4. In the end it all boils down to one human problem: TRUST
+5. The luhn validator is easy to check and easy to solve
+5. All P problems and are NP Problems.
