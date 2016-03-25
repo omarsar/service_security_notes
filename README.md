@@ -61,3 +61,7 @@ YAML: A form of serializing data
 4. Diffusion keeps changing steadily
 5. WEP weak because of CRC (Cyclic Redundancy Check)
 
+## Asymmetric Cryptography
+1. PK-Cryptography ensures confidentiality (Agent (securing) Handler)
+2. PK-Cryptography ensures non-repudiation (Agent (signing) Handler)
+3. First we sign then secure so that the other side decrypts and then remove the signature with Agents public key
