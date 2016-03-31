@@ -68,3 +68,7 @@ YAML: A form of serializing data
 4. In the end it all boils down to one human problem: TRUST
 5. The luhn validator is easy to check and easy to solve
 5. All P problems and are NP Problems.
+
+## Web Service and Security
+1. AES is faster than RSA (10 times slower in some cases). RSA can be used to exchange Symmetric Keys and tehn AES can be used to exchange secure information.
+2. 
