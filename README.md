@@ -71,4 +71,5 @@ YAML: A form of serializing data
 
 ## Web Service and Security
 1. AES is faster than RSA (10 times slower in some cases). RSA can be used to exchange Symmetric Keys and tehn AES can be used to exchange secure information.
-2. 
+2. Security threats of the internet back in the days: info load, loss of node
+3. Rack deals with all the HTTP tasks
